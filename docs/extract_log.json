@@ -1,0 +1,26 @@
+{
+ "cutter": "KSJ N03 20260101 03 (Iwate), 8224 polygons dissolved",
+ "area_crs": 6678,
+ "files": {
+  "veg2024bk2a.gpkg": {
+   "read_in_bbox": 9168,
+   "intersect": 166,
+   "wholly_inside": 131,
+   "crossing": 35,
+   "crossing_kept_after_clip": 35,
+   "crossing_dropped_no_area": 0,
+   "kept": 166
+  },
+  "veg2024bk2b.gpkg": {
+   "read_in_bbox": 301436,
+   "intersect": 248021,
+   "wholly_inside": 244668,
+   "crossing": 3353,
+   "crossing_kept_after_clip": 3353,
+   "crossing_dropped_no_area": 0,
+   "kept": 248021
+  }
+ },
+ "rows": 248187,
+ "invalid_after": 0
+}
