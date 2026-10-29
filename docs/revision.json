@@ -1,0 +1,22 @@
+{
+ "repo": "yuiseki/iwate-vegetation-2024",
+ "revision": "a3fcfbc714abc0c69fd67063ed22f116ff7a2d6d",
+ "sha256": {
+  "README.md": "f895752204921bbe872de9709c6ebc530f7911246888ee33609ef78da2fd1328",
+  "LICENSE": "433f9ea55d9b3daaeb6f74de49d2a5298415915c94e8ec0ca036fc301f939dfc",
+  "provenance.yaml": "fcc28e2862cc78531316b6769ead413dc788262c1cf7af4314f188f427d7877e",
+  "parquet/vegetation_iwate.parquet": "2ba60c56ae3e7fc7dd5a09f27295ee456ff377fcd5b331f8a2dad9851701bae8",
+  "raw/20261028/MANIFEST.json": "3573d3c4f6d4d773866fe0fdb94f598705893cce72680545a05023b1b984346d",
+  "raw/20261028/ckan_record.json": "a2a8016a2e29ff0cad5f22cfb2713e4a1d9ba1bac59eff23ae5b876f03bac891",
+  "docs/iwate_profile.md": "a11ed89f864d335b4f2832713930740259136ed10ac6216cb536e9672f39020a",
+  "docs/iwate_profile.json": "dd83e3742630237da82316a53f7b7590076dcc99f4eec94648bc642c424feb87",
+  "docs/raw_profile.md": "874e770c062c06b0aebf414a807cd46af604d4569f7f7933bef207d926b2294e",
+  "docs/raw_profile.json": "f85d132e7100dbd5d85898a586ee6f12bcec112542a1b9ec79c7556f37f3d029",
+  "docs/extract_log.json": "9d81486c605217c11f3e9232af223c47050744c8f7a08e213308300f45dcaaed",
+  "docs/legend_iwate.tsv": "dd3c1f168939eeab0c519c0a077a8648d7aef73cd2b50227d2ed6f35bd7ba391",
+  "docs/legend_matches_iwate.tsv": "fb58c38a94506f5ff1341f75b1666dd0296aa8292edca92861a99fb8a2eaffb2",
+  "docs/legend_all_source_raw.tsv": "a37ae97249b8f1908fe9169db34456d84ddc7f513ea579a090bc15f13d7d9dc4",
+  "docs/legend_matches_source_raw.tsv": "d2a4e151259a4b914af6ba5f8c62b5e06800c271ae349fde1229c8b962b7646f",
+  "docs/verify_local.json": "86cc478fd82558cbf59dd962b1d487e805e423cdcdaf609d0ef2cef0d1171b25"
+ }
+}
